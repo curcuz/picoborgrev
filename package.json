@@ -1,6 +1,6 @@
 {
   "name": "picoborgrev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A controller library for PiBorg's PicoBorg Reverse motor driver board designed for use with the Raspberry Pi.",
   "main": "main.js",
   "dependencies": {
